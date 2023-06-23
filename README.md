@@ -26,7 +26,7 @@ Come and Explore more about me!
 
 
 
-## Languages, Stacks & Frameworks, I've worked on
+## Tools, Stacks & Frameworks, I've worked on
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
